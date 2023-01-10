@@ -16,8 +16,8 @@ $(function () {
                                 bar += 'Framework yang dibangun secara free agar kalian dapat menggunakan dengan baik';
                             bar += '</p>';
                             bar += '<ul class="social-share">';
-                                bar += '<li><a href="#"><i class="ax-instagram"></i></a></li>';
-                                bar += '<li><a href="#"><i class="ax-tiktok"></i></a></li>';
+                                bar += '<li><a href="https://www.instagram.com/axcon.id/"><i class="ax-instagram"></i></a></li>';
+                                bar += '<li><a href="https://www.tiktok.com/@axcon.id"><i class="ax-tiktok"></i></a></li>';
                             bar += '</ul>';
                         bar += '</div>';
                     bar += '</div>';
