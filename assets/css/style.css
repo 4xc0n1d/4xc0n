@@ -19857,6 +19857,10 @@ Gallery Item
   margin: -5px -25px;
 }
 
+.blog-meta .img {
+  width: 50px;
+}
+
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
   .blog-meta {
     margin: -5px -10px;
