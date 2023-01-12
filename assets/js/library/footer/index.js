@@ -41,10 +41,10 @@ $(function () {
                             bar += '<h5 class="widget-title">Useful Links</h5>';
                             bar += '<div class="inner">';
                                 bar += '<ul class="footer-link link-hover">';
-                                    bar += '<li><a href="contact-us.html"><i class="ax-chevrons-right"></i>Contact Us</a></li>';
-                                    bar += '<li><a href="pricing.html"><i class="ax-chevrons-right"></i>Pricing Plan</a></li>';
-                                    bar += '<li><a href="faq.html"><i class="ax-chevrons-right"></i>FAQ</a></li>';
-                                    bar += '<li><a href="purchase-guide.html"><i class="ax-chevrons-right"></i>Terms & Conditions</a></li>';
+                                    bar += '<li><a href="m/contact-us"><i class="ax-chevrons-right"></i>Contact Us</a></li>';
+                                    bar += '<li><a href="m/pricing-plan"><i class="ax-chevrons-right"></i>Pricing Plan</a></li>';
+                                    bar += '<li><a href="https://faq.axcon.my.id/"><i class="ax-chevrons-right"></i>FAQ</a></li>';
+                                    bar += '<li><a href="m/terms-&-conditions"><i class="ax-chevrons-right"></i>Terms & Conditions</a></li>';
                                 bar += '</ul>';
                             bar += '</div>';
                         bar += '</div>';
