@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'axcon';
-  src:  url('axcon/axcon.eot?ipcrpv');
-  src:  url('axcon/axcon.eot?ipcrpv#iefix') format('embedded-opentype'),
-    url('axcon/axcon.ttf?ipcrpv') format('truetype'),
-    url('axcon/axcon.woff?ipcrpv') format('woff'),
-    url('axcon/axcon.svg?ipcrpv#axcon') format('svg');
+  src:  url('axcon/axcon.eot?ld4y7l');
+  src:  url('axcon/axcon.eot?ld4y7l#iefix') format('embedded-opentype'),
+    url('axcon/axcon.ttf?ld4y7l') format('truetype'),
+    url('axcon/axcon.woff?ld4y7l') format('woff'),
+    url('axcon/axcon.svg?ld4y7l#axcon') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -1480,18 +1480,21 @@ i {
 .ax-html-five:before {
   content: "\eae4";
 }
-.ax-html-five-2:before {
+.ax-html-five2:before {
   content: "\eae5";
 }
-.ax-css-3:before {
-  content: "\1f300";
+.ax-css3:before {
+  content: "\eae6";
 }
 .ax-git:before {
-  content: "\1f301";
+  content: "\eae7";
 }
 .ax-codepen:before {
-  content: "\1f302";
+  content: "\eae8";
 }
 .ax-svg:before {
-  content: "\1f303";
+  content: "\eae9";
+}
+.ax-IcoMoon:before {
+  content: "\eaea";
 }
