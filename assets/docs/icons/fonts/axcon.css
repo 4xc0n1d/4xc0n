@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'axcon';
-  src:  url('axcon/axcon.eot?lqkjuf');
-  src:  url('axcon/axcon.eot?lqkjuf#iefix') format('embedded-opentype'),
-    url('axcon/axcon.ttf?lqkjuf') format('truetype'),
-    url('axcon/axcon.woff?lqkjuf') format('woff'),
-    url('axcon/axcon.svg?lqkjuf#axcon') format('svg');
+  src:  url('axcon/axcon.eot?9ke4ua');
+  src:  url('axcon/axcon.eot?9ke4ua#iefix') format('embedded-opentype'),
+    url('axcon/axcon.ttf?9ke4ua') format('truetype'),
+    url('axcon/axcon.woff?9ke4ua') format('woff'),
+    url('axcon/axcon.svg?9ke4ua#axcon') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -25,6 +25,186 @@ i {
   -moz-osx-font-smoothing: grayscale;
 }
 
+.ax-box:before {
+  content: "\e900";
+}
+.ax-write:before {
+  content: "\e901";
+}
+.ax-clock1:before {
+  content: "\e902";
+}
+.ax-reply1:before {
+  content: "\e903";
+}
+.ax-reply-all:before {
+  content: "\e904";
+}
+.ax-forward1:before {
+  content: "\e905";
+}
+.ax-flag1:before {
+  content: "\e906";
+}
+.ax-search1:before {
+  content: "\e907";
+}
+.ax-trash:before {
+  content: "\e908";
+}
+.ax-envelope:before {
+  content: "\e909";
+}
+.ax-bubble1:before {
+  content: "\e90a";
+}
+.ax-bubbles1:before {
+  content: "\e90b";
+}
+.ax-user1:before {
+  content: "\e90c";
+}
+.ax-users1:before {
+  content: "\e90d";
+}
+.ax-cloud1:before {
+  content: "\e90e";
+}
+.ax-download1:before {
+  content: "\e90f";
+}
+.ax-upload1:before {
+  content: "\e910";
+}
+.ax-rain:before {
+  content: "\e911";
+}
+.ax-sun1:before {
+  content: "\e912";
+}
+.ax-moon:before {
+  content: "\e913";
+}
+.ax-bell1:before {
+  content: "\e914";
+}
+.ax-folder1:before {
+  content: "\e915";
+}
+.ax-pin:before {
+  content: "\e916";
+}
+.ax-sound:before {
+  content: "\e917";
+}
+.ax-microphone:before {
+  content: "\e918";
+}
+.ax-camera1:before {
+  content: "\e919";
+}
+.ax-image1:before {
+  content: "\e91a";
+}
+.ax-cog1:before {
+  content: "\e91b";
+}
+.ax-calendar1:before {
+  content: "\e91c";
+}
+.ax-book1:before {
+  content: "\e91d";
+}
+.ax-map-marker:before {
+  content: "\e91e";
+}
+.ax-store:before {
+  content: "\e91f";
+}
+.ax-support:before {
+  content: "\e920";
+}
+.ax-tag:before {
+  content: "\e921";
+}
+.ax-heart1:before {
+  content: "\e922";
+}
+.ax-video-camera1:before {
+  content: "\e923";
+}
+.ax-trophy1:before {
+  content: "\e924";
+}
+.ax-cart1:before {
+  content: "\e925";
+}
+.ax-eye1:before {
+  content: "\e926";
+}
+.ax-cancel:before {
+  content: "\e927";
+}
+.ax-chart:before {
+  content: "\e928";
+}
+.ax-target1:before {
+  content: "\e929";
+}
+.ax-printer1:before {
+  content: "\e92a";
+}
+.ax-location1:before {
+  content: "\e92b";
+}
+.ax-bookmark1:before {
+  content: "\e92c";
+}
+.ax-monitor:before {
+  content: "\e92d";
+}
+.ax-cross1:before {
+  content: "\e92e";
+}
+.ax-plus1:before {
+  content: "\e92f";
+}
+.ax-left:before {
+  content: "\e930";
+}
+.ax-up:before {
+  content: "\e931";
+}
+.ax-browser:before {
+  content: "\e932";
+}
+.ax-windows1:before {
+  content: "\e933";
+}
+.ax-switch1:before {
+  content: "\e934";
+}
+.ax-dashboard:before {
+  content: "\e935";
+}
+.ax-play1:before {
+  content: "\e936";
+}
+.ax-fast-forward:before {
+  content: "\e937";
+}
+.ax-next1:before {
+  content: "\e938";
+}
+.ax-refresh:before {
+  content: "\e939";
+}
+.ax-film1:before {
+  content: "\e93a";
+}
+.ax-home1:before {
+  content: "\e93b";
+}
 .ax-home:before {
   content: "\1f300";
 }
