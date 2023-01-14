@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'axcon';
-  src:  url('axcon/axcon.eot?x4m1mv');
-  src:  url('axcon/axcon.eot?x4m1mv#iefix') format('embedded-opentype'),
-    url('axcon/axcon.ttf?x4m1mv') format('truetype'),
-    url('axcon/axcon.woff?x4m1mv') format('woff'),
-    url('axcon/axcon.svg?x4m1mv#axcon') format('svg');
+  src:  url('axcon/axcon.eot?lcwv5g');
+  src:  url('axcon/axcon.eot?lcwv5g#iefix') format('embedded-opentype'),
+        url('axcon/axcon.ttf?lcwv5g') format('truetype'),
+        url('axcon/axcon.woff?lcwv5g') format('woff'),
+        url('axcon/axcon.svg?lcwv5g#axcon') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -1312,7 +1312,7 @@ i {
 .ax-table:before {
   content: "\1f46e";
 }
-.ax-table2:before {
+.ax-table-2:before {
   content: "\1f46f";
 }
 .ax-insert-template:before {
@@ -2063,197 +2063,197 @@ i {
   color: #ff5722;
 }
 .ax-bmcsoftware:before {
-  content: "\e964";
+  content: "\1f588";
   color: #fe5000;
 }
 .ax-boeing:before {
-  content: "\e965";
+  content: "\1f589";
   color: #1d439c;
 }
 .ax-boost:before {
-  content: "\e966";
+  content: "\1f58a";
   color: #f69220;
 }
 .ax-bootstrap:before {
-  content: "\e967";
+  content: "\1f58b";
   color: #563d7c;
 }
 .ax-bower:before {
-  content: "\e968";
+  content: "\1f58c";
   color: #ef5734;
 }
 .ax-box1:before {
-  content: "\e969";
+  content: "\1f58d";
   color: #0061d5;
 }
 .ax-brand-dot-ai:before {
-  content: "\e96a";
+  content: "\1f58e";
   color: #0aa0ff;
 }
 .ax-brandfolder:before {
-  content: "\e96b";
+  content: "\1f58f";
   color: #40d1f5;
 }
 .ax-brave:before {
-  content: "\e96c";
+  content: "\1f590";
   color: #fb542b;
 }
 .ax-breaker:before {
-  content: "\e96d";
+  content: "\1f591";
   color: #003dad;
 }
 .ax-broadcom:before {
-  content: "\e96e";
+  content: "\1f592";
   color: #cc092f;
 }
 .ax-buddy:before {
-  content: "\e96f";
+  content: "\1f593";
   color: #1a86fd;
 }
 .ax-buffer:before {
-  content: "\e970";
+  content: "\1f594";
   color: #168eea;
 }
 .ax-buymeacoffee:before {
-  content: "\e971";
+  content: "\1f595";
   color: #ff813f;
 }
 .ax-buzzfeed:before {
-  content: "\e972";
+  content: "\1f596";
   color: #e32;
 }
 .ax-c:before {
-  content: "\e973";
+  content: "\1f597";
   color: #a8b9cc;
 }
 .ax-cakephp:before {
-  content: "\e974";
+  content: "\1f598";
   color: #d33c43;
 }
 .ax-campaignmonitor:before {
-  content: "\e975";
+  content: "\1f599";
   color: #509cf6;
 }
 .ax-canva:before {
-  content: "\e976";
+  content: "\1f59a";
   color: #00c4cc;
 }
 .ax-cashapp:before {
-  content: "\e977";
+  content: "\1f59b";
   color: #00c244;
 }
 .ax-cassandra:before {
-  content: "\e978";
+  content: "\1f59c";
   color: #1287b1;
 }
 .ax-castorama:before {
-  content: "\e979";
+  content: "\1f59d";
   color: #0078d7;
 }
 .ax-castro:before {
-  content: "\e97a";
+  content: "\1f59e";
   color: #00b265;
 }
 .ax-centos:before {
-  content: "\e97b";
+  content: "\1f59f";
   color: #262577;
 }
 .ax-cevo:before {
-  content: "\e97c";
+  content: "\1f5a0";
   color: #1eabe2;
 }
 .ax-chase:before {
-  content: "\e97d";
+  content: "\1f5a1";
   color: #117aca;
 }
 .ax-chef:before {
-  content: "\e97e";
+  content: "\1f5a2";
   color: #f09820;
 }
 .ax-circle:before {
-  content: "\e97f";
+  content: "\1f5a3";
   color: #8669ae;
 }
 .ax-circleci:before {
-  content: "\e980";
+  content: "\1f5a4";
 }
 .ax-cirrusci:before {
-  content: "\e981";
+  content: "\1f5a5";
 }
 .ax-cisco:before {
-  content: "\e982";
+  content: "\1f5a6";
   color: #1ba0d7;
 }
 .ax-civicrm:before {
-  content: "\e983";
+  content: "\1f5a7";
   color: #81c459;
 }
 .ax-clockify:before {
-  content: "\e984";
+  content: "\1f5a8";
   color: #03a9f4;
 }
 .ax-clojure:before {
-  content: "\e985";
+  content: "\1f5a9";
   color: #5881d8;
 }
 .ax-cloudbees:before {
-  content: "\e986";
+  content: "\1f5aa";
   color: #1997b5;
 }
 .ax-cloudflare:before {
-  content: "\e987";
+  content: "\1f5ab";
   color: #f38020;
 }
 .ax-cmake:before {
-  content: "\e988";
+  content: "\1f5ac";
   color: #064f8c;
 }
 .ax-co-op:before {
-  content: "\e989";
+  content: "\1f5ad";
   color: #00b1e7;
 }
 .ax-codacy:before {
-  content: "\e98a";
+  content: "\1f5ae";
 }
 .ax-codecademy:before {
-  content: "\e98b";
+  content: "\1f5af";
   color: #1f4056;
 }
 .ax-codechef:before {
-  content: "\e98c";
+  content: "\1f5b0";
   color: #5b4638;
 }
 .ax-codeclimate:before {
-  content: "\e98d";
+  content: "\1f5b1";
 }
 .ax-codecov:before {
-  content: "\e98e";
+  content: "\1f5b2";
   color: #f01f7a;
 }
 .ax-codefactor:before {
-  content: "\e98f";
+  content: "\1f5b3";
   color: #f44a6a;
 }
 .ax-codeforces:before {
-  content: "\e991";
+  content: "\1f5b4";
   color: #1f8acb;
 }
 .ax-codeigniter:before {
-  content: "\e992";
+  content: "\1f5b5";
   color: #ee4623;
 }
 .ax-codepen1:before {
-  content: "\e993";
+  content: "\1f5b6";
 }
 .ax-coderwall:before {
-  content: "\e994";
+  content: "\1f5b7";
   color: #3e8dcc;
 }
 .ax-codesandbox:before {
-  content: "\e995";
+  content: "\1f5b8";
 }
 .ax-codeship:before {
-  content: "\e996";
+  content: "\1f5b9";
   color: #3c4858;
 }
 .ax-codewars:before {
