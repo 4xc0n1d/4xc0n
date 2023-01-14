@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'axcon';
-  src:  url('axcon/axcon.eot?8lz1cx');
-  src:  url('axcon/axcon.eot?8lz1cx#iefix') format('embedded-opentype'),
-    url('axcon/axcon.ttf?8lz1cx') format('truetype'),
-    url('axcon/axcon.woff?8lz1cx') format('woff'),
-    url('axcon/axcon.svg?8lz1cx#axcon') format('svg');
+  src:  url('axcon/axcon.eot?x4m1mv');
+  src:  url('axcon/axcon.eot?x4m1mv#iefix') format('embedded-opentype'),
+    url('axcon/axcon.ttf?x4m1mv') format('truetype'),
+    url('axcon/axcon.woff?x4m1mv') format('woff'),
+    url('axcon/axcon.svg?x4m1mv#axcon') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -319,7 +319,7 @@ i {
 .ax-files-empty:before {
   content: "\1f325";
 }
-.ax-file-text2:before {
+.ax-file-text-2:before {
   content: "\1f326";
 }
 .ax-file-picture:before {
@@ -421,7 +421,7 @@ i {
 .ax-location:before {
   content: "\1f347";
 }
-.ax-location2:before {
+.ax-location-2:before {
   content: "\1f348";
 }
 .ax-compass:before {
@@ -1676,390 +1676,390 @@ i {
   content: "\1f4e7";
 }
 .ax-1password:before {
-  content: "\e900";
+  content: "\1f524";
   color: #0094f5;
 }
 .ax-500px-1:before {
-  content: "\e901";
+  content: "\1f525";
   color: #0099e5;
 }
 .ax-abbrobotstudio:before {
-  content: "\e902";
+  content: "\1f526";
   color: #ff9e0f;
 }
 .ax-about-dot-me:before {
-  content: "\e903";
+  content: "\1f527";
   color: #00a98f;
 }
 .ax-abstract:before {
-  content: "\e904";
+  content: "\1f528";
 }
 .ax-academia:before {
-  content: "\e905";
+  content: "\1f529";
 }
 .ax-accusoft:before {
-  content: "\e906";
+  content: "\1f52a";
   color: #ff7e4a;
 }
 .ax-acm:before {
-  content: "\e907";
+  content: "\1f52b";
   color: #0085ca;
 }
 .ax-addthis:before {
-  content: "\e908";
+  content: "\1f52c";
   color: #ff6550;
 }
 .ax-adguard:before {
-  content: "\e909";
+  content: "\1f52d";
   color: #66b574;
 }
 .ax-adobe:before {
-  content: "\e90a";
+  content: "\1f52e";
   color: #f00;
 }
 .ax-adobeacrobatreader:before {
-  content: "\e90b";
+  content: "\1f52f";
   color: #ee3f24;
 }
 .ax-adobeaftereffects:before {
-  content: "\e90c";
+  content: "\1f530";
   color: #d291ff;
 }
 .ax-adobeaudition:before {
-  content: "\e90d";
+  content: "\1f531";
   color: #00e4bb;
 }
 .ax-adobecreativecloud:before {
-  content: "\e90e";
+  content: "\1f532";
   color: #d41818;
 }
 .ax-adobedreamweaver:before {
-  content: "\e90f";
+  content: "\1f533";
   color: #35fa00;
 }
 .ax-adobeillustrator:before {
-  content: "\e910";
+  content: "\1f534";
   color: #ff7c00;
 }
 .ax-adobeindesign:before {
-  content: "\e911";
+  content: "\1f535";
   color: #fd3f93;
 }
 .ax-adobelightroomcc:before {
-  content: "\e912";
+  content: "\1f536";
   color: #3df0f0;
 }
 .ax-adobelightroomclassic:before {
-  content: "\e913";
+  content: "\1f537";
   color: #add5ec;
 }
 .ax-adobephotoshop:before {
-  content: "\e914";
+  content: "\1f538";
   color: #00c8ff;
 }
 .ax-adobepremiere:before {
-  content: "\e915";
+  content: "\1f539";
   color: #ea77ff;
 }
 .ax-adobetypekit:before {
-  content: "\e916";
+  content: "\1f53a";
   color: #87ec00;
 }
 .ax-adobexd:before {
-  content: "\e917";
+  content: "\1f53b";
   color: #ff2bc2;
 }
 .ax-airbnb:before {
-  content: "\e918";
+  content: "\1f53c";
   color: #ff5a5f;
 }
 .ax-airplayaudio:before {
-  content: "\e919";
+  content: "\1f53d";
 }
 .ax-airplayvideo:before {
-  content: "\e91a";
+  content: "\1f53e";
 }
 .ax-algolia:before {
-  content: "\e91b";
+  content: "\1f53f";
   color: #5468ff;
 }
 .ax-alliedmodders:before {
-  content: "\e91c";
+  content: "\1f540";
   color: #1578d3;
 }
 .ax-amazon-1:before {
-  content: "\e91d";
+  content: "\1f541";
   color: #f90;
 }
 .ax-amazonalexa:before {
-  content: "\e91e";
+  content: "\1f542";
   color: #00caff;
 }
 .ax-amazonaws:before {
-  content: "\2d";
+  content: "\1f543";
 }
 .ax-amd:before {
-  content: "\e920";
+  content: "\1f544";
   color: #ed1c24;
 }
 .ax-americanexpress:before {
-  content: "\e921";
+  content: "\1f545";
   color: #2e77bc;
 }
 .ax-anaconda:before {
-  content: "\e922";
+  content: "\1f546";
   color: #42b029;
 }
 .ax-analogue:before {
-  content: "\e923";
+  content: "\1f547";
 }
 .ax-anchor:before {
-  content: "\e924";
+  content: "\1f548";
   color: #8940fa;
 }
 .ax-android-1:before {
-  content: "\e925";
+  content: "\1f549";
   color: #3ddc84;
 }
 .ax-angellist:before {
-  content: "\e926";
+  content: "\1f54a";
 }
 .ax-angular:before {
-  content: "\e927";
+  content: "\1f54b";
   color: #dd0031;
 }
 .ax-angularuniversal:before {
-  content: "\e928";
+  content: "\1f54c";
   color: #00acc1;
 }
 .ax-ansible:before {
-  content: "\e929";
+  content: "\1f54d";
   color: #e00;
 }
 .ax-apache:before {
-  content: "\e92a";
+  content: "\1f54e";
   color: #d22128;
 }
 .ax-apacheairflow:before {
-  content: "\e92b";
+  content: "\1f54f";
   color: #007a88;
 }
 .ax-apachecordova:before {
-  content: "\e92c";
+  content: "\1f550";
   color: #e8e8e8;
 }
 .ax-apacheflink:before {
-  content: "\e92d";
+  content: "\1f551";
   color: #e6526f;
 }
 .ax-apachekafka:before {
-  content: "\e92e";
+  content: "\1f552";
 }
 .ax-apachenetbeanside:before {
-  content: "\e92f";
+  content: "\1f553";
   color: #1b6ac6;
 }
 .ax-apacheopenoffice:before {
-  content: "\e930";
+  content: "\1f554";
   color: #0e85cd;
 }
 .ax-apacherocketmq:before {
-  content: "\e931";
+  content: "\1f555";
   color: #d77310;
 }
 .ax-apachespark:before {
-  content: "\e932";
+  content: "\1f556";
   color: #e25a1c;
 }
 .ax-apple:before {
-  content: "\e933";
+  content: "\1f557";
   color: #999;
 }
 .ax-applemusic:before {
-  content: "\e934";
+  content: "\1f558";
 }
 .ax-applepay:before {
-  content: "\e935";
+  content: "\1f559";
 }
 .ax-applepodcasts:before {
-  content: "\e936";
+  content: "\1f55a";
   color: #93c;
 }
 .ax-appveyor:before {
-  content: "\e937";
+  content: "\1f55b";
   color: #00b3e0;
 }
 .ax-aral:before {
-  content: "\e938";
+  content: "\1f55c";
   color: #0063cb;
 }
 .ax-archiveofourown:before {
-  content: "\e939";
+  content: "\1f55d";
   color: #900;
 }
 .ax-archlinux:before {
-  content: "\e93a";
+  content: "\1f55e";
   color: #1793d1;
 }
 .ax-arduino:before {
-  content: "\e93b";
+  content: "\1f55f";
   color: #00979d;
 }
 .ax-artstation:before {
-  content: "\e93c";
+  content: "\1f560";
   color: #13aff0;
 }
 .ax-arxiv:before {
-  content: "\e93d";
+  content: "\1f561";
   color: #b31b1b;
 }
 .ax-asana:before {
-  content: "\e93e";
+  content: "\1f562";
 }
 .ax-asciidoctor:before {
-  content: "\e93f";
+  content: "\1f563";
   color: #e40046;
 }
 .ax-at-and-t:before {
-  content: "\e940";
+  content: "\1f564";
   color: #00a8e0;
 }
 .ax-atlassian:before {
-  content: "\e941";
+  content: "\1f565";
   color: #0052cc;
 }
 .ax-atom:before {
-  content: "\e942";
+  content: "\1f566";
   color: #66595c;
 }
 .ax-audi:before {
-  content: "\e943";
+  content: "\1f567";
   color: #bb0a30;
 }
 .ax-audible:before {
-  content: "\e944";
+  content: "\1f568";
   color: #f8991c;
 }
 .ax-aurelia:before {
-  content: "\e945";
+  content: "\1f569";
   color: #ed2b88;
 }
 .ax-auth0:before {
-  content: "\e946";
+  content: "\1f56a";
   color: #eb5424;
 }
 .ax-automatic:before {
-  content: "\e947";
+  content: "\1f56b";
   color: #7d8084;
 }
 .ax-autotask:before {
-  content: "\e948";
+  content: "\1f56c";
   color: #e51937;
 }
 .ax-aventrix:before {
-  content: "\e949";
+  content: "\1f56d";
   color: #09d;
 }
 .ax-awesomewm:before {
-  content: "\e94a";
+  content: "\1f56e";
   color: #535d6c;
 }
 .ax-azureartifacts:before {
-  content: "\e94b";
+  content: "\1f56f";
   color: #cb2e6d;
 }
 .ax-azuredevops:before {
-  content: "\e94c";
+  content: "\1f570";
   color: #0078d7;
 }
 .ax-azurepipelines:before {
-  content: "\e94d";
+  content: "\1f571";
   color: #2560e0;
 }
 .ax-babel:before {
-  content: "\e94e";
+  content: "\1f572";
   color: #f9dc3e;
 }
 .ax-baidu:before {
-  content: "\e94f";
+  content: "\1f573";
   color: #2319dc;
 }
 .ax-bamboo:before {
-  content: "\e950";
+  content: "\1f574";
   color: #0052cc;
 }
 .ax-bancontact:before {
-  content: "\e951";
+  content: "\1f575";
   color: #005498;
 }
 .ax-bandcamp:before {
-  content: "\e952";
+  content: "\1f576";
   color: #408294;
 }
 .ax-bandlab:before {
-  content: "\e953";
+  content: "\1f577";
   color: #dc3710;
 }
 .ax-basecamp1:before {
-  content: "\e954";
+  content: "\1f578";
   color: #5ecc62;
 }
 .ax-bathasu:before {
-  content: "\e955";
+  content: "\1f579";
   color: #00a3e0;
 }
 .ax-beats:before {
-  content: "\e956";
+  content: "\1f57a";
   color: #005571;
 }
 .ax-beatsbydre:before {
-  content: "\e957";
+  content: "\1f57b";
   color: #e01f3d;
 }
 .ax-behance-1:before {
-  content: "\e958";
+  content: "\1f57c";
   color: #1769ff;
 }
 .ax-bigcartel:before {
-  content: "\e959";
+  content: "\1f57d";
 }
 .ax-bing:before {
-  content: "\e95a";
+  content: "\1f57e";
   color: #008373;
 }
 .ax-bit:before {
-  content: "\e95b";
+  content: "\1f57f";
   color: #73398d;
 }
 .ax-bitbucket:before {
-  content: "\e95c";
+  content: "\1f580";
   color: #0052cc;
 }
 .ax-bitcoin:before {
-  content: "\e95d";
+  content: "\1f581";
   color: #f7931a;
 }
 .ax-bitdefender:before {
-  content: "\e95e";
+  content: "\1f582";
   color: #ed1c24;
 }
 .ax-bitly:before {
-  content: "\e95f";
+  content: "\1f583";
   color: #ee6123;
 }
 .ax-bitrise:before {
-  content: "\e960";
+  content: "\1f584";
   color: #683d87;
 }
 .ax-blackberry:before {
-  content: "\e961";
+  content: "\1f585";
 }
 .ax-blender:before {
-  content: "\e962";
+  content: "\1f586";
   color: #f5792a;
 }
-.ax-blogger1:before {
-  content: "\e963";
+.ax-blogger-1:before {
+  content: "\1f587";
   color: #ff5722;
 }
 .ax-bmcsoftware:before {
