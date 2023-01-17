@@ -1,0 +1,53 @@
+.ax-flashing {
+    -webkit-animation: flashing 1.5s infinite linear;
+            animation: flashing 1.5s infinite linear;
+}
+.ax-flashing-hover:hover {
+    -webkit-animation: flashing 1.5s infinite linear;
+            animation: flashing 1.5s infinite linear;
+}
+
+.ax-burst {
+    -webkit-animation: burst 1.5s infinite linear;
+            animation: burst 1.5s infinite linear;
+}
+.ax-burst-hover:hover {
+    -webkit-animation: burst 1.5s infinite linear;
+            animation: burst 1.5s infinite linear;
+}
+
+.ax-fade-up {
+    -webkit-animation: fade-up 1.5s infinite linear;
+            animation: fade-up 1.5s infinite linear;
+}
+.ax-fade-up-hover:hover {
+    -webkit-animation: fade-up 1.5s infinite linear;
+            animation: fade-up 1.5s infinite linear;
+}
+
+.ax-fade-down {
+    -webkit-animation: fade-down 1.5s infinite linear;
+            animation: fade-down 1.5s infinite linear;
+}
+.ax-fade-down-hover:hover {
+    -webkit-animation: fade-down 1.5s infinite linear;
+            animation: fade-down 1.5s infinite linear;
+}
+
+.ax-fade-left {
+    -webkit-animation: fade-left 1.5s infinite linear;
+            animation: fade-left 1.5s infinite linear;
+}
+.ax-fade-left-hover:hover {
+    -webkit-animation: fade-left 1.5s infinite linear;
+            animation: fade-left 1.5s infinite linear;
+}
+
+.ax-fade-right {
+    -webkit-animation: fade-right 1.5s infinite linear;
+            animation: fade-right 1.5s infinite linear;
+}
+.ax-fade-right-hover:hover {
+    -webkit-animation: fade-right 1.5s infinite linear;
+            animation: fade-right 1.5s infinite linear;
+}
