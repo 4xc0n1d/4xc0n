@@ -9513,7 +9513,7 @@ body.sal-disabled [data-sal|='flip'] {
 
 .mainmenu-nav .mainmenu li.has-droupdown>a::after {
   position: absolute;
-  content: "\e931";
+  content: "\e92e";
   font-family: 'axcon';
   right: 6px;
   top: 50%;
@@ -9763,7 +9763,7 @@ body.sal-disabled [data-sal|='flip'] {
 
 .popup-mobile-menu .mainmenu .has-droupdown>a::after {
   position: absolute;
-  content: "\e931";
+  content: "\e92e";
   font-family: 'axcon' !important;
   right: 0;
   top: 50%;
@@ -9772,7 +9772,7 @@ body.sal-disabled [data-sal|='flip'] {
 }
 
 .popup-mobile-menu .mainmenu .has-droupdown>a.open::after {
-  content: "\e93d";
+  content: "\e931";
 }
 
 .popup-mobile-menu .mainmenu .rn-megamenu {
@@ -17004,7 +17004,7 @@ button.edu-btn.btn-border {
 .rn-progress-parent::after {
   position: absolute;
   font-family: 'axcon' !important;
-  content: "\e93d";
+  content: "\e931";
   text-align: center;
   line-height: 46px;
   font-size: 24px;
@@ -18466,7 +18466,7 @@ Accordion Style
 
 .accordion-style-1 .edu-accordion-button::after {
   position: absolute;
-  content: "\e931";
+  content: "\e92e";
   font-family: 'acon';
   color: var(--color-heading);
   font-size: 20px;
@@ -18520,7 +18520,7 @@ Accordion Style
 
 .edu-accordion-02 .edu-accordion-button::after {
   position: absolute;
-  content: "\e931";
+  content"\e92e";
   font-family: 'axcon';
   color: var(--color-heading);
   font-size: 20px;
@@ -18611,7 +18611,7 @@ Accordion Style
 }
 
 .edu-accordion-02.variation-2 .edu-accordion-button::after {
-  content: "\e931";
+  content: "\e92e";
   width: 32px;
   height: 32px;
   background: #FFFFFF;
