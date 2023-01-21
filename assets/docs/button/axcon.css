@@ -1,5 +1,6 @@
 /* Button Download */
 .button-download {
+    display: inline-flex;
     --width: 130px;
     --height: 35px;
     --tooltip-height: 35px;
