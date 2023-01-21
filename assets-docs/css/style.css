@@ -18746,7 +18746,7 @@ span.twitter-typeahead .tt-suggestion:active {
 .helper-classes {
   padding: 30px;
   margin-bottom: 0;
-  white-space: pre-line;
+  white-space: nowrap;
 }
 
 .starter-kit-fix .page-body {
@@ -18768,8 +18768,9 @@ span.twitter-typeahead .tt-suggestion:active {
 }
 
 .starter-main .card-body pre {
-  white-space: pre-line;
+  white-space: pre;
   padding: 30px;
+  margin-top: 20px;
 }
 
 .starter-main .card-body .axcon {
@@ -35196,6 +35197,12 @@ button[data-toggle=dropdown]:hover~.dropdown-menu {
 }
 
 .page-wrapper.compact-wrapper .page-body-wrapper div.sidebar-wrapper.close_icon .sidebar-main-title {
+  transition: all 0.3s ease;
+  display: inline-flex;
+  left: 14px;
+}
+
+.page-wrapper.compact-wrapper .page-body-wrapper div.sidebar-wrapper.close_icon .close {
   display: none !important;
   opacity: 0;
   transition: all 0.3s ease;

@@ -164,6 +164,7 @@ samp {
   -ms-hyphens: none;
   hyphens: none;
   color: var(--color-primary);
+  white-space: nowrap;
 }
 
 kbd,
@@ -178,13 +179,13 @@ pre.wp-block-code {
   margin: 40px 0 !important;
   overflow: auto;
   padding: 20px !important;
-  white-space: pre !important;
-  white-space: pre-wrap !important;
+  white-space: nowrap;
   word-wrap: break-word !important;
   color: var(--color-body) !important;
   background: var(--color-light);
   border-radius: 4px;
 }
+
 
 small {
   font-size: smaller;
