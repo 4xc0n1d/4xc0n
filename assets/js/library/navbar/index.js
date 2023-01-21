@@ -70,7 +70,7 @@ $(function () {
                     bar += '</div>';
                     bar += '<div class="close-menu">';
                         bar += '<button class="close-button">';
-                            bar += '<i class="ax-clear"></i>';
+                            bar += '<i class="ax-x"></i>';
                         bar += '</button>';
                     bar += '</div>';
                 bar += '</div>';
