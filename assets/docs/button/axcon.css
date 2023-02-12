@@ -50,14 +50,14 @@
     transition: all 0.5s;
 }
 
-.text {
+.text-download {
     display: flex;
     align-items: center;
     justify-content: center;
 }
 
 .button-wrapper,
-.text,
+.text-download,
 .icon {
     overflow: hidden;
     position: absolute;
@@ -67,11 +67,11 @@
     color: #fff;
 }
 
-.text {
+.text-download {
     top: 0
 }
 
-.text,
+.text-download,
 .icon {
     transition: top 0.5s;
 }
@@ -88,7 +88,7 @@
     background: #6c18ff;
 }
 
-.button-download:hover .text {
+.button-download:hover .text-download {
     top: -100%;
 }
 
