@@ -28,9 +28,6 @@ $(function () {
                             bar += '<div class="inner">';
                                 bar += '<ul class="footer-link link-hover">';
                                     bar += '<li><a href="https://icons.axcon.my.id/" target="_blank"><i class="ax-chevrons-right"></i>Icons</a></li>';
-                                    bar += '<li><a href="https://modals.axcon.my.id/" target="_blank"><i class="ax-chevrons-right"></i>Modals</a></li>';
-                                    bar += '<li><a href="https://button.axcon.my.id/" target="_blank"><i class="ax-chevrons-right"></i>Button</a></li>';
-                                    bar += '<li><a href="https://tooltip.axcon.my.id/" target="_blank"><i class="ax-chevrons-right"></i>Tooltip</a></li>';
                                 bar += '</ul>';
                             bar += '</div>';
                         bar += '</div>';

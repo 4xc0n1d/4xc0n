@@ -8,7 +8,7 @@ $(function () {
                     bar += '<div class="col-lg-6 col-xl-2 col-md-6 col-6">';
                         bar += '<div class="logo">';
                             bar += '<a href="/">';
-                                bar += '<img class="logo-light" src="https://axcon.my.id/assets/images/logo/logo-light.svg" alt="Site Logo">';
+                                bar += '<img class="logo-light" src="https://www.axcon.my.id/assets/images/logo/logo-light.svg" alt="Site Logo">';
                             bar += '</a>';
                         bar += '</div>';
                     bar += '</div>';
@@ -18,9 +18,6 @@ $(function () {
                                 bar += '<li class="has-droupdown"><a href="javascript:void(0)">Framework</a>';
                                     bar += '<ul class="submenu">';
                                         bar += '<li><a href="https://icons.axcon.my.id/" target="_blank">Icons</a></li>';
-                                        bar += '<li><a href="https://modal.axcon.my.id/" target="_blank">Modal</a></li>';
-                                        bar += '<li><a href="https://button.axcon.my.id/" target="_blank">Button</a></li>';
-                                        bar += '<li><a href="https://tooltip.axcon.my.id/" target="_blank">Tooltip</a></li>';
                                     bar += '</ul>';
                                 bar += '</li>';
 
@@ -79,9 +76,6 @@ $(function () {
                     bar += '<li class="has-droupdown"><a href="javascript:void(0)">Framework</a>';
                         bar += '<ul class="submenu">';
                             bar += '<li><a href="https://icons.axcon.my.id/" target="_blank">Icons</a></li>';
-                            bar += '<li><a href="https://modal.axcon.my.id/" target="_blank">Modal</a></li>';
-                            bar += '<li><a href="https://button.axcon.my.id/" target="_blank">Button</a></li>';
-                            bar += '<li><a href="https://tooltip.axcon.my.id/" target="_blank">Tooltip</a></li>';
                         bar += '</ul>';
                     bar += '</li>';
 
