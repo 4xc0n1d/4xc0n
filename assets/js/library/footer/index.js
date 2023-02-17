@@ -9,7 +9,7 @@ $(function () {
                         bar += '<div class="edu-footer-widget">';
                             bar += '<div class="logo">';
                                 bar += '<a href="/">';
-                                    bar += '<img class="logo-light" src="https://axcon.my.id/assets/images/logo/logo-dark.svg" alt="Axcon">';
+                                    bar += '<img class="logo-light" src="https://www.axcon.my.id/assets/images/logo/logo-dark.svg" alt="Axcon">';
                                 bar += '</a>';
                             bar += '</div>';
                             bar += '<p class="description">';
