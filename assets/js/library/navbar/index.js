@@ -62,7 +62,7 @@ $(function () {
                 bar += '<div class="header-top">';
                     bar += '<div class="logo">';
                         bar += '<a href="/">';
-                            bar += '<img src="https://axcon.my.id/assets/images/logo/logo-light.svg" alt="Site Logo">';
+                            bar += '<img src="https://www.axcon.my.id/assets/images/logo/logo-light.svg" alt="Site Logo">';
                         bar += '</a>';
                     bar += '</div>';
                     bar += '<div class="close-menu">';
